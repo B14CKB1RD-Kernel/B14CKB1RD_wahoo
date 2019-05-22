@@ -52,6 +52,7 @@ CONFIG_DEFAULT_TCP_CONG="westwood"
 #
 # Kernel Tweaks
 #
+CONFIG_STATE_NOTIFIER=y
 
 #
 # Taimen/Wahoo General Configs
