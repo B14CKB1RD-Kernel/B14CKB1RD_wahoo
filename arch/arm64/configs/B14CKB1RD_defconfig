@@ -53,6 +53,8 @@ CONFIG_DEFAULT_TCP_CONG="westwood"
 # Kernel Tweaks
 #
 CONFIG_STATE_NOTIFIER=y
+CONFIG_FB_MSM_MDSS_KCAL_CTRL=y
+CONFIG_KLAPSE=y
 
 #
 # Taimen/Wahoo General Configs
